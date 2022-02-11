@@ -1,5 +1,5 @@
 {
-  "name": "Uniswap Labs List",
+  "name": "1omb.Finance List",
   "timestamp": "2021-12-22T15:35:53.363Z",
   "version": {
     "major": 3,
@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "logoURI": "https://i.ibb.co/WWx4CGJ/1omb-logo-600.gif",
   "keywords": [
     "uniswap",
     "default"
